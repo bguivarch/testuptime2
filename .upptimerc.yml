@@ -10,7 +10,7 @@ sites:
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Test Broken Site
-    url: https://news.ycombinator.com
+    url: https://thissitedoesnotexist.koj.co
 assignees:
   - bguivarch
 
