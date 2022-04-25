@@ -11,6 +11,10 @@ sites:
     url: https://news.ycombinator.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
+  - name: API contenu
+    url: $CONTENT_SERVER
+  - name: API conversation
+    url: $CHATSERVER
 assignees:
   - bguivarch
 
