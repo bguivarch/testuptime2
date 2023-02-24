@@ -64,18 +64,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.co.ico",
     "slug": "test-broken-site",
     "status": "down",
-    "uptime": "54.84%",
+    "uptime": "54.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "16.54%",
+    "uptimeYear": "16.37%",
     "time": 11,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 11,
     "dailyMinutesDown": {
-      "2023-02-24": 14,
+      "2023-02-24": 888,
       "2023-02-23": 1440,
       "2023-02-22": 1440,
       "2023-02-21": 1440,
@@ -388,10 +388,10 @@
     "url": "$CONTENT_SERVER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-contenu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 563,
@@ -399,7 +399,9 @@
     "timeWeek": 414,
     "timeMonth": 481,
     "timeYear": 563,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-24": 1
+    }
   },
   {
     "name": "API conversation",
