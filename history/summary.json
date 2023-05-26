@@ -78,7 +78,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-26": 13,
+      "2023-05-26": 24,
       "2023-05-25": 1440,
       "2023-05-24": 1440,
       "2023-05-23": 1440,
@@ -450,9 +450,9 @@
     "url": "$CONTENT_SERVER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-contenu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -461,16 +461,18 @@
     "timeWeek": 390,
     "timeMonth": 435,
     "timeYear": 544,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-26": 0
+    }
   },
   {
     "name": "API conversation",
     "url": "$CHATSERVER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-conversation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -480,6 +482,7 @@
     "timeMonth": 121,
     "timeYear": 128,
     "dailyMinutesDown": {
+      "2023-05-26": 0,
       "2022-10-20": 26,
       "2022-07-20": 190
     }
