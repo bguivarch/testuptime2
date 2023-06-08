@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 101,
-    "timeDay": 92,
-    "timeWeek": 73,
-    "timeMonth": 83,
+    "timeDay": 79,
+    "timeWeek": 76,
+    "timeMonth": 82,
     "timeYear": 101,
     "dailyMinutesDown": {}
   },
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 277,
-    "timeDay": 305,
-    "timeWeek": 264,
-    "timeMonth": 222,
+    "time": 276,
+    "timeDay": 99,
+    "timeWeek": 251,
+    "timeMonth": 220,
     "timeYear": 285,
     "dailyMinutesDown": {
       "2022-06-12": 22
@@ -44,17 +44,16 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.88%",
     "time": 279,
-    "timeDay": 322,
-    "timeWeek": 327,
-    "timeMonth": 311,
+    "timeDay": 294,
+    "timeWeek": 318,
+    "timeMonth": 312,
     "timeYear": 287,
     "dailyMinutesDown": {
-      "2023-06-07": 6,
       "2023-04-11": 24,
       "2023-03-28": 26,
       "2023-03-27": 42,
@@ -79,7 +78,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-07": 1289,
+      "2023-06-08": 14,
+      "2023-06-07": 1440,
       "2023-06-06": 1440,
       "2023-06-05": 1440,
       "2023-06-04": 1440,
@@ -442,8 +442,7 @@
       "2022-06-12": 1440,
       "2022-06-11": 1440,
       "2022-06-10": 1440,
-      "2022-06-09": 1440,
-      "2022-06-08": 1440
+      "2022-06-09": 1440
     }
   },
   {
@@ -458,9 +457,9 @@
     "uptimeMonth": "98.84%",
     "uptimeYear": "99.90%",
     "time": 547,
-    "timeDay": 438,
-    "timeWeek": 514,
-    "timeMonth": 433,
+    "timeDay": 533,
+    "timeWeek": 520,
+    "timeMonth": 431,
     "timeYear": 537,
     "dailyMinutesDown": {
       "2023-05-26": 510
@@ -478,9 +477,9 @@
     "uptimeMonth": "98.84%",
     "uptimeYear": "99.86%",
     "time": 129,
-    "timeDay": 118,
-    "timeWeek": 115,
-    "timeMonth": 114,
+    "timeDay": 148,
+    "timeWeek": 123,
+    "timeMonth": 113,
     "timeYear": 128,
     "dailyMinutesDown": {
       "2023-05-26": 510,
