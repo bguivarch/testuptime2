@@ -75,7 +75,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-26": 674,
+      "2023-07-26": 680,
       "2023-07-25": 1440,
       "2023-07-24": 1440,
       "2023-07-23": 1440,
@@ -447,10 +447,10 @@
     "url": "$CONTENT_SERVER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-contenu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "98.51%",
-    "uptimeWeek": "99.79%",
+    "uptimeDay": "98.46%",
+    "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.90%",
     "time": 548,
@@ -459,7 +459,7 @@
     "timeMonth": 623,
     "timeYear": 533,
     "dailyMinutesDown": {
-      "2023-07-26": 21,
+      "2023-07-26": 22,
       "2023-05-26": 510
     }
   },
@@ -468,11 +468,11 @@
     "url": "$CHATSERVER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-conversation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 140,
     "timeDay": 1863,
@@ -480,7 +480,7 @@
     "timeMonth": 291,
     "timeYear": 141,
     "dailyMinutesDown": {
-      "2023-07-26": 7,
+      "2023-07-26": 0,
       "2023-05-26": 510,
       "2022-10-20": 26
     }
