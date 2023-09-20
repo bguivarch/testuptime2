@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 106,
-    "timeDay": 95,
-    "timeWeek": 120,
+    "timeDay": 100,
+    "timeWeek": 119,
     "timeMonth": 115,
     "timeYear": 107,
     "dailyMinutesDown": {}
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 269,
-    "timeDay": 124,
-    "timeWeek": 190,
+    "timeDay": 139,
+    "timeWeek": 176,
     "timeMonth": 289,
     "timeYear": 224,
     "dailyMinutesDown": {}
@@ -42,17 +42,16 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 283,
-    "timeDay": 95,
-    "timeWeek": 237,
-    "timeMonth": 312,
+    "timeDay": 113,
+    "timeWeek": 225,
+    "timeMonth": 304,
     "timeYear": 289,
     "dailyMinutesDown": {
-      "2023-09-19": 6,
       "2023-04-11": 24,
       "2023-03-28": 26,
       "2023-03-27": 42
@@ -64,7 +63,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.co.ico",
     "slug": "test-broken-site",
     "status": "down",
-    "uptime": "41.95%",
+    "uptime": "41.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -75,7 +74,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-19": 586,
+      "2023-09-20": 12,
+      "2023-09-19": 1440,
       "2023-09-18": 1440,
       "2023-09-17": 1440,
       "2023-09-16": 1440,
@@ -438,8 +438,7 @@
       "2022-09-24": 1440,
       "2022-09-23": 1440,
       "2022-09-22": 1440,
-      "2022-09-21": 1440,
-      "2022-09-20": 1440
+      "2022-09-21": 1440
     }
   },
   {
@@ -453,11 +452,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 528,
-    "timeDay": 589,
-    "timeWeek": 435,
-    "timeMonth": 407,
-    "timeYear": 508,
+    "time": 529,
+    "timeDay": 573,
+    "timeWeek": 451,
+    "timeMonth": 409,
+    "timeYear": 509,
     "dailyMinutesDown": {
       "2023-07-26": 21,
       "2023-05-26": 510
@@ -475,10 +474,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 136,
-    "timeDay": 162,
-    "timeWeek": 121,
-    "timeMonth": 114,
-    "timeYear": 138,
+    "timeDay": 158,
+    "timeWeek": 126,
+    "timeMonth": 115,
+    "timeYear": 139,
     "dailyMinutesDown": {
       "2023-05-26": 510,
       "2022-10-20": 26
