@@ -1,7 +1,7 @@
 url: $CHATSERVER
-status: up
-code: 200
-responseTime: 159
-lastUpdated: 2023-10-02T23:02:43.417Z
+status: down
+code: 503
+responseTime: 100
+lastUpdated: 2023-10-03T21:06:03.995Z
 startTime: 2022-04-25T09:18:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
