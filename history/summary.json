@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 109,
-    "timeDay": 69,
-    "timeWeek": 138,
-    "timeMonth": 154,
-    "timeYear": 109,
+    "timeDay": 63,
+    "timeWeek": 82,
+    "timeMonth": 153,
+    "timeYear": 108,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 271,
-    "timeDay": 393,
-    "timeWeek": 264,
-    "timeMonth": 236,
-    "timeYear": 228,
+    "timeDay": 179,
+    "timeWeek": 257,
+    "timeMonth": 229,
+    "timeYear": 229,
     "dailyMinutesDown": {}
   },
   {
@@ -47,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 289,
-    "timeDay": 448,
-    "timeWeek": 335,
+    "timeDay": 402,
+    "timeWeek": 340,
     "timeMonth": 312,
-    "timeYear": 291,
+    "timeYear": 292,
     "dailyMinutesDown": {
       "2023-04-11": 24,
       "2023-03-28": 26,
@@ -63,7 +63,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.co.ico",
     "slug": "test-broken-site",
     "status": "down",
-    "uptime": "40.54%",
+    "uptime": "40.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -74,7 +74,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-20": 13,
+      "2023-10-21": 12,
+      "2023-10-20": 1440,
       "2023-10-19": 1440,
       "2023-10-18": 1440,
       "2023-10-17": 1440,
@@ -437,8 +438,7 @@
       "2022-10-25": 1440,
       "2022-10-24": 1440,
       "2022-10-23": 1440,
-      "2022-10-22": 1440,
-      "2022-10-21": 1440
+      "2022-10-22": 1440
     }
   },
   {
@@ -452,11 +452,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 516,
-    "timeDay": 332,
-    "timeWeek": 449,
-    "timeMonth": 441,
-    "timeYear": 481,
+    "time": 515,
+    "timeDay": 297,
+    "timeWeek": 434,
+    "timeMonth": 440,
+    "timeYear": 480,
     "dailyMinutesDown": {
       "2023-07-26": 21,
       "2023-05-26": 510
@@ -472,12 +472,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.89%",
+    "uptimeYear": "99.90%",
     "time": 136,
-    "timeDay": 96,
-    "timeWeek": 115,
-    "timeMonth": 121,
-    "timeYear": 138,
+    "timeDay": 89,
+    "timeWeek": 110,
+    "timeMonth": 120,
+    "timeYear": 137,
     "dailyMinutesDown": {
       "2023-10-03": 21,
       "2023-05-26": 510
