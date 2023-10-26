@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 110,
-    "timeDay": 277,
-    "timeWeek": 144,
-    "timeMonth": 168,
+    "timeDay": 92,
+    "timeWeek": 147,
+    "timeMonth": 160,
     "timeYear": 109,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 270,
-    "timeDay": 172,
-    "timeWeek": 198,
-    "timeMonth": 193,
-    "timeYear": 228,
+    "timeDay": 213,
+    "timeWeek": 180,
+    "timeMonth": 195,
+    "timeYear": 227,
     "dailyMinutesDown": {}
   },
   {
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 289,
-    "timeDay": 244,
-    "timeWeek": 297,
-    "timeMonth": 291,
+    "timeDay": 117,
+    "timeWeek": 256,
+    "timeMonth": 286,
     "timeYear": 290,
     "dailyMinutesDown": {
       "2023-04-11": 24,
@@ -63,7 +63,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.co.ico",
     "slug": "test-broken-site",
     "status": "down",
-    "uptime": "40.32%",
+    "uptime": "40.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -74,7 +74,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-25": 12,
+      "2023-10-26": 12,
+      "2023-10-25": 1440,
       "2023-10-24": 1440,
       "2023-10-23": 1440,
       "2023-10-22": 1440,
@@ -437,8 +438,7 @@
       "2022-10-30": 1440,
       "2022-10-29": 1440,
       "2022-10-28": 1440,
-      "2022-10-27": 1440,
-      "2022-10-26": 1440
+      "2022-10-27": 1440
     }
   },
   {
@@ -452,10 +452,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 515,
-    "timeDay": 502,
-    "timeWeek": 439,
-    "timeMonth": 458,
+    "time": 516,
+    "timeDay": 560,
+    "timeWeek": 474,
+    "timeMonth": 461,
     "timeYear": 481,
     "dailyMinutesDown": {
       "2023-07-26": 21,
@@ -474,9 +474,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.90%",
     "time": 136,
-    "timeDay": 117,
-    "timeWeek": 120,
-    "timeMonth": 125,
+    "timeDay": 150,
+    "timeWeek": 128,
+    "timeMonth": 126,
     "timeYear": 137,
     "dailyMinutesDown": {
       "2023-10-03": 21,
