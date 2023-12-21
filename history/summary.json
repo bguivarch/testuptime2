@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 109,
-    "timeDay": 72,
-    "timeWeek": 71,
+    "timeDay": 87,
+    "timeWeek": 72,
     "timeMonth": 100,
     "timeYear": 109,
     "dailyMinutesDown": {}
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 222,
-    "timeDay": 197,
+    "timeDay": 173,
     "timeWeek": 256,
-    "timeMonth": 251,
-    "timeYear": 225,
+    "timeMonth": 253,
+    "timeYear": 224,
     "dailyMinutesDown": {}
   },
   {
@@ -47,10 +47,10 @@
     "uptimeMonth": "99.44%",
     "uptimeYear": "99.94%",
     "time": 350,
-    "timeDay": 507,
-    "timeWeek": 376,
-    "timeMonth": 1045,
-    "timeYear": 365,
+    "timeDay": 411,
+    "timeWeek": 377,
+    "timeMonth": 1052,
+    "timeYear": 366,
     "dailyMinutesDown": {
       "2023-12-15": 29,
       "2023-12-12": 215,
@@ -65,7 +65,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.co.ico",
     "slug": "test-broken-site",
     "status": "down",
-    "uptime": "38.00%",
+    "uptime": "37.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -76,7 +76,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-20": 11,
+      "2023-12-21": 13,
+      "2023-12-20": 1440,
       "2023-12-19": 1440,
       "2023-12-18": 1440,
       "2023-12-17": 1440,
@@ -439,8 +440,7 @@
       "2022-12-25": 1440,
       "2022-12-24": 1440,
       "2022-12-23": 1440,
-      "2022-12-22": 1440,
-      "2022-12-21": 1440
+      "2022-12-22": 1440
     }
   },
   {
@@ -455,10 +455,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 493,
-    "timeDay": 313,
-    "timeWeek": 408,
-    "timeMonth": 425,
-    "timeYear": 475,
+    "timeDay": 349,
+    "timeWeek": 415,
+    "timeMonth": 419,
+    "timeYear": 474,
     "dailyMinutesDown": {
       "2023-07-26": 21,
       "2023-05-26": 510
@@ -476,9 +476,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 134,
-    "timeDay": 106,
-    "timeWeek": 102,
-    "timeMonth": 113,
+    "timeDay": 109,
+    "timeWeek": 105,
+    "timeMonth": 111,
     "timeYear": 136,
     "dailyMinutesDown": {
       "2023-10-03": 21,
