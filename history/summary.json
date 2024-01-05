@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 108,
-    "timeDay": 67,
-    "timeWeek": 115,
+    "timeDay": 85,
+    "timeWeek": 118,
     "timeMonth": 97,
     "timeYear": 108,
     "dailyMinutesDown": {}
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 223,
-    "timeDay": 148,
-    "timeWeek": 292,
-    "timeMonth": 239,
-    "timeYear": 224,
+    "timeDay": 201,
+    "timeWeek": 200,
+    "timeMonth": 234,
+    "timeYear": 225,
     "dailyMinutesDown": {}
   },
   {
@@ -47,8 +47,8 @@
     "uptimeMonth": "99.44%",
     "uptimeYear": "99.94%",
     "time": 349,
-    "timeDay": 414,
-    "timeWeek": 323,
+    "timeDay": 350,
+    "timeWeek": 312,
     "timeMonth": 1135,
     "timeYear": 366,
     "dailyMinutesDown": {
@@ -65,7 +65,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.co.ico",
     "slug": "test-broken-site",
     "status": "down",
-    "uptime": "37.42%",
+    "uptime": "37.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -76,7 +76,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-04": 14,
+      "2024-01-05": 13,
+      "2024-01-04": 1440,
       "2024-01-03": 1440,
       "2024-01-02": 1440,
       "2024-01-01": 1440,
@@ -439,8 +440,7 @@
       "2023-01-09": 1440,
       "2023-01-08": 1440,
       "2023-01-07": 1440,
-      "2023-01-06": 1440,
-      "2023-01-05": 1440
+      "2023-01-06": 1440
     }
   },
   {
@@ -454,10 +454,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 492,
-    "timeDay": 405,
-    "timeWeek": 407,
-    "timeMonth": 429,
+    "time": 491,
+    "timeDay": 295,
+    "timeWeek": 403,
+    "timeMonth": 426,
     "timeYear": 472,
     "dailyMinutesDown": {
       "2023-07-26": 21,
@@ -476,7 +476,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 134,
-    "timeDay": 111,
+    "timeDay": 86,
     "timeWeek": 116,
     "timeMonth": 116,
     "timeYear": 135,
