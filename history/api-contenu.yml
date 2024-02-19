@@ -1,7 +1,7 @@
 url: $CONTENT_SERVER
-status: down
-code: 503
-responseTime: 296
-lastUpdated: 2024-02-19T02:28:31.069Z
+status: up
+code: 200
+responseTime: 576
+lastUpdated: 2024-02-19T02:34:51.013Z
 startTime: 2022-04-25T09:18:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
